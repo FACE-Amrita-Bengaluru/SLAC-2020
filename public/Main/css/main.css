@@ -2065,6 +2065,7 @@ footer .newsletter_form .form-control {
 .speaker_box {
 	position: relative;
 	overflow: hidden;
+	margin: 0 5px;
 }
 .speaker_box .speaker_img {
 	position: relative;
