@@ -132,7 +132,7 @@ $(document).ready(function () {
 		var marker = new google.maps.Marker({
 			position: new google.maps.LatLng(lattuide, longtuided),
 			map: map,
-			title: "SLAC 2019",
+			title: "SLAC 2020",
 		});
 	}
 });
