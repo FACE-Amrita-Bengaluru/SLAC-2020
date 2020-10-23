@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900';
+@import "https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900";
 html {
 	scroll-behavior: smooth;
 }
@@ -121,7 +121,7 @@ ul.nosyely_list {
 }
 .section_title .title:before {
 	width: 30px;
-	content: ' ';
+	content: " ";
 	position: absolute;
 	border-top: solid 3px #163ca9;
 	left: 0;
@@ -137,7 +137,7 @@ ul.nosyely_list {
 }
 .icon_title .sub-title:before {
 	width: 30px;
-	content: ' ';
+	content: " ";
 	position: absolute;
 	border-top: solid 3px #163ca9;
 	left: 0;
@@ -1449,7 +1449,7 @@ footer .footer_box h4.footer_title {
 }
 footer .footer_box h4.footer_title:before {
 	width: 30px;
-	content: ' ';
+	content: " ";
 	position: absolute;
 	border-top: solid 3px #163ca9;
 	left: 0;
@@ -1827,7 +1827,7 @@ footer .newsletter_form .form-control {
 	border: solid 2px #163ca9;
 }
 .cover_nav .cover_dots:before {
-	content: ' ';
+	content: " ";
 	display: block;
 	z-index: 99999;
 	position: absolute;
@@ -1841,7 +1841,7 @@ footer .newsletter_form .form-control {
 	border-left: 40px solid transparent;
 }
 .cover_nav .cover_dots:after {
-	content: ' ';
+	content: " ";
 	display: block;
 	z-index: 99999;
 	position: absolute;
@@ -1899,7 +1899,7 @@ footer .newsletter_form .form-control {
 	border-top-right-radius: 51px;
 }
 .breadcrumbs ul:before {
-	content: ' ';
+	content: " ";
 	display: block;
 	position: absolute;
 	left: -30px;
@@ -1922,7 +1922,7 @@ footer .newsletter_form .form-control {
 	height: 0;
 	border-bottom: 40px solid #fff;
 	border-right: 40px solid transparent;
-	content: ' ';
+	content: " ";
 }
 .breadcrumbs ul li {
 	display: inline-block;
@@ -2251,7 +2251,7 @@ footer .newsletter_form .form-control {
 }
 .event_box .event_info .event_title:before {
 	width: 30px;
-	content: ' ';
+	content: " ";
 	position: absolute;
 	border-top: solid 4px #163ca9;
 	left: 0;
@@ -2423,7 +2423,7 @@ footer .newsletter_form .form-control {
 	color: #163ca9;
 }
 .testimonial_carousel:before {
-	content: '\f347';
+	content: "\f347";
 	font-family: ionicons;
 	position: absolute;
 	color: #18181c;
@@ -2468,7 +2468,7 @@ footer .newsletter_form .form-control {
 	cursor: pointer;
 }
 .testimonial_carousel .slick-dots li button:before {
-	content: '';
+	content: "";
 	opacity: 0;
 }
 .testimonial_carousel .slick-dots li.slick-active button {
