@@ -143,22 +143,6 @@ ul.nosyely_list {
 	left: 0;
 	top: 0;
 }
-.icon_title {
-	position: relative;
-}
-.icon_title .sub-title {
-	text-transform: uppercase;
-	padding: 10px 0;
-	font-size: 20px;
-}
-.icon_title .sub-title:before {
-	width: 30px;
-	content: ' ';
-	position: absolute;
-	border-top: solid 3px #163ca9;
-	left: 0;
-	top: 0;
-}
 .countdown {
 	text-align: center;
 }
