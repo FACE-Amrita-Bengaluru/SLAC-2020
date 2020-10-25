@@ -2233,6 +2233,37 @@ footer .newsletter_form .form-control {
 	-webkit-transition: all ease-in-out 0.4s;
 	transition: all ease-in-out 0.4s;
 }
+
+/* Devfolio button */
+#devfolio-apply-now {
+	-ms-flex-align: center;
+	-webkit-box-align: center;
+	align-items: center;
+	background-color: #3770ff;
+	border-radius: 3px;
+	border: none;
+	color: #ffffff;
+	cursor: pointer;
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: flex;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+		sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-size: 18px;
+	font-weight: 600;
+	padding: 12px 20px;
+	text-align: center;
+	text-transform: lowercase;
+}
+
+#devfolio-apply-now:not([disabled]) {
+	cursor: pointer;
+}
+
+#devfolio-apply-now:hover {
+	background-color: #2954bf !important;
+}
+/* End of Devfolio button */
 .event_box {
 	margin: 70px 0;
 }
